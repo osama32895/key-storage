@@ -1,0 +1,9 @@
+{
+    "kms2025": {"status": "valid"},
+  "jkd2040": {"status": "valid"},
+  "edu2000": {"status": "valid"},
+  "nur1998": {"status": "valid"},
+  "asd1899": {"status": "valid"},
+  "lmn2020": {"status": "valid"},
+    "XYZ789": {"status": "revoked"}
+}
